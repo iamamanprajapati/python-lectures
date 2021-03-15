@@ -1,0 +1,26 @@
+OOPS :- The Object Oriented System is a mechanism of software development . It have four pillers
+
+1) Abstraction
+2) Encapsulation
+3) Inheritance
+4) Polymorphism
+
+Any programmin language which follows these concepts is called as object oriented programming language.
+
+Abstraction :- Abstraction is a mechanism to show only esential functionalities and hide all functionalities
+
+Encapsulation :- Encapsulation is a mechanism to wrap properties and functionalities in a single unit.
+
+Inheritance :- In Inheritance you can create a new product by using existing product
+
+Polymorphism :- The term polymorphism means one thing many forms.
+
+
+OOPS :- object is a real world entity which have its properties and functionalities
+
+Class :- Class is the collection of variable and methods . we can create class by using 'class' keyword followed by class name 
+            inside body of class we create variales and methods
+
+class class_name:
+                #variables and methods
+                

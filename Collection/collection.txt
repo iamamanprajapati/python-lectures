@@ -1,0 +1,35 @@
+List :- LIst is a collection which stores multiple valuyes of diffrent data types.
+list = [10,20,30,40,50]
+list1 = ["Aman","Amit","Manish",4000000,600000,35000*12]
+list2 = [] #Blank list
+
+Tuple :- Tuple is a collection of Hetrogeneous data types like list . That means a Tuple can store multiple values
+         of diffrent data types . But tuple is Immutable , we can not modified tuple after creation
+
+Dictionary :- Dictionary is the collection in python , in which elements are stored in key and value pair.
+
+dict ={
+    'key' : value,
+    'key' : value,
+                .
+                .
+                .
+                .
+                
+}
+
+   
+                                        Collection In Python
+                                                |
+                                                |
+                                                |
+                                                |
+            -------------------------------------------------------------------------------
+            |                                   |                                          |
+            |                                   |                                          |
+            |                                   |                                          |
+            v                                   v                                          v
+          List                                Tuple                                    Dictionary
+    
+    -> Hetrogeneous                       -> Immutable                                 
+    -> Mutable

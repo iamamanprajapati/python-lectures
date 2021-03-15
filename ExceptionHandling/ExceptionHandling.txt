@@ -1,0 +1,19 @@
+What is Exception Handling ?
+
+Exception :- The dictionary meaning of exception is abnormal termination. 
+when exception occurs the programm is terminated abnormally and rest of the cpde is not executed .
+
+Exception Handling :- Exception Handling is a mechanism to handle exception and provide
+ alternate to achieve normal flow of exception.
+
+# syntax for Exception Handling
+ try:
+    #code which you want to protect
+ except:
+    #code which is used to handle exception 
+    #alternate 
+ finally:
+    #optional
+    #code which you want to execute always
+
+Note :- For a single try block there can be multiple except block

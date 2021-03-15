@@ -1,0 +1,8 @@
+Phases of SDLC :-
+
+1) Feasibility Study
+2) Analysis
+3) Designing
+4) Development (Coding)
+5) Testing
+6) Implementation

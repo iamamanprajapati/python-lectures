@@ -1,0 +1,9 @@
+Polymorphism :- The term Polymorphism means one thing many forms . It is two types :-
+1. Method Overloading
+2. Method Overriding
+
+1) Method Overloading :- If we perform many tasks from a single method then it is called method overloading . 
+
+A programm to demonstrate concept of method overloading
+
+2) Method Overriding :-The re-writing of base class method to derived class is called method Overriding

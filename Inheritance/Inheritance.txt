@@ -1,0 +1,50 @@
+Class Base -> Derived Class
+Class Super -> Subclass Class
+Class Parent -> Child Class
+
+Single Inheritance :- In single Inheritancethere is a single base class and single derived class .
+
+class A:
+    #Code 
+class B(A):
+    #Code
+
+Hierarchical Inheritance :- In Hierarchical Inheritance there is a single base class and multiple derived classes.
+
+class A:
+    #code 
+class B(A):
+    #code
+class C(A):
+    #code
+
+Multiple Inheritance :- In Multiple Inheritance there are multiple base classes and single drived class.
+
+class A:
+    #code 
+class B:
+    #code 
+class C(A,B):
+    #code 
+
+Multi-level Inheritance :-  
+
+Class A:
+    #code
+class B(A):
+    #code 
+class C(B):
+    #code 
+
+
+Hybrid Inheritance :- If we use more than one Inheritance ina programm , then resultant 
+is called Hybrid Inheritance.
+
+class A:
+    #code
+class B(A):
+    #code
+class D:
+    #code
+class C(B,D):
+    #code

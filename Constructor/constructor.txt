@@ -1,0 +1,5 @@
+Constructor :- The constructor is the special method which is used to initialized non static variables ,
+The constructor call automatically as soon as object is created.
+
+def __init__(self):
+    #code

@@ -1,0 +1,26 @@
+upper() :- To convert string into upper case
+lower() :- To convert string into lower case
+title() :- To convert string into title format
+split() :- The split() function split the dtring into subString -> This function return list of string
+
+sen = "India is a great country"
+
+--------------------------------------------------------------------------------------------------------
+
+replace :- replace() function is used to replace one word with another place
+
+sen.replace(word,forchange)
+
+----------------------------------------------------------------------------------------------------------
+
+Boolean function in String :- 
+isnumeric() :- it return True if string contain only numeric values.
+isapha() :- it return True if string contain only alphabets
+isalnum() :- it return True if string contain alphanumeric value
+isupper() :- it return True if string is in upper case.
+islower() :- It return True if string is in lower case.
+istitle() :- it return True if string is in title format.
+
+---------------------------------------------------------------------------------------------------------
+
+strip() :- This function remove all special characters from string

@@ -1,0 +1,22 @@
+File Handling in Python :-
+File Operations :-
+
+1) Write Operation :- In write operation we store information into File
+
+2) Append Operation :- In append operation information is concatenate in old information
+
+3) Read Operation :- In read operation information is read from the File
+
+---------------------------------------------------------------------------------------------------------------
+
+open() :-  The open function is used to open file.
+
+--------------------------------------------------------------------------------------------------------------
+
+open(filename,openmode) :- |  write -->  "w"
+                           |  append --> "a"
+                           |  read -->   "r"
+
+---------------------------------------------------------------------------------------------------------------
+
+close() :- The close function in python is used to close the file

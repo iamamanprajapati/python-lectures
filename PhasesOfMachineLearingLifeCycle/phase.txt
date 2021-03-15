@@ -1,0 +1,22 @@
+Machine learning life cycle
+
+1) Collecting the Data
+2) Data Wrangling --- Search, clean, discover, inrich
+3) data Analysis
+4) Train Algorithm
+5) Test Algorithm
+6) Deployement
+
+Types of Machine learning
+
+1) Supervised learning
+2) Unsupervised learning
+3) Reinforcement learning
+
+Imporant python libraries
+
+1) Numpy :- is used N-dimensional array objects.
+2) Pandas :- is a data analysis library tht includes dataframes.
+3) Scikit-learn :- the Algorithm used for data analysis and data mining tasks.
+4) Seaborn :- a data visualization library based on Matplotlib.
+5) Matplotlib :- is 2D plotting library for creating graph and plots.
