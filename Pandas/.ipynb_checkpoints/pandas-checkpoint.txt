@@ -1,0 +1,22 @@
+Pandas :- 
+--> Pandas is a data analysis library which uses the power of numpy
+--> Pandas library is developed by using CPython
+--> Pandas library deals with .csv files
+
+
+Data structure in Pandas :- Two types
+1) series (1D array) :- Series is nothing but like one dimensional array
+2) DataFrame (2D array) :- DataFrame is just like two dimensional array
+
+matplotib library :- the matplotlib library is a data visualization library . It is used make two dimensional plots/
+
+
+import matplotlib.pyplot as plt
+x = [1,2,3]
+y = [4,5,1]
+
+plt.plot(x,y)
+
+plt.show()
+
+
