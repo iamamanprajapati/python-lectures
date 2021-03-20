@@ -1,0 +1,15 @@
+Linear regration are two types
+1) Simple
+2) Multiple
+
+slope
+------>
+
+          mean(x)*mean(y) - mean(x*y)
+    m =   ----------------------------
+           mean(x)*mean(x)-mean(x*x)
+           
+Intercept
+--------->
+
+    b = mean(y) - mean(x) * m

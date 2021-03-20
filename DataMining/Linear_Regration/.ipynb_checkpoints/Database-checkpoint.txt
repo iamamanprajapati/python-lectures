@@ -1,0 +1,37 @@
+1) DDL(Data definition language)
+2) DML(Data manupulation language)
+3) DCL(Data control language)
+4) TCL(Transaction constol language)
+
+Commands of DDL :-
+1. create :- create command is used to create a new database object
+2. alter :- alter command is used to modify database object
+3. drop :- drop command is used to delete database object
+4. truncate :- it is used to delete all data from database object
+5. backup :- backup command is used to take backup of database
+6. restore :- restore command is used to reconstruct database from its backup
+
+Commands of DML :- 
+1. Insert :- insert command is used to insert record into database object
+2. delete :- delete command is used to delete records from database object
+3. update :- update command is used to modify record of database object
+4. select :- select command is used to retrieve records from database object
+
+commands of DCL :-
+1. grant :- grant command is used to give rights to database user.
+2. revoke :- revike command is used to take off rights from database.
+3. Rename command is used to change the name of database object.
+
+
+commands of TCL :-
+1. commit :-commit command is used to save transaction.
+2. rollback :- rollback command is used to undo transaction
+
+
+Q) How to eslablish connection between front end and back end in python?
+
+1) import mysql.connector
+
+   mydb = mysql.connector.connect(host ='localhost',user='root',database='iet_db',password='root')
+   
+   c = mydb.cursor()

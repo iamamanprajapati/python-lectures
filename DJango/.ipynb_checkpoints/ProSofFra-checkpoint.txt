@@ -1,0 +1,19 @@
+Programming language , Software Technology and Frameworks :- 
+_________________________________________________________________________________________________________
+
+Programming Language :-
+
+--> The programming language provides raw material for software development
+--> Programming language provides syntaxes and symantics for software development.
+--> C,C++,Java,C#,Python,JavaScript....etc are some programming languages.
+__________________________________________________________________________________________________________
+
+Software Technology :- Software technology are non onstallable technology. But the software developed by using software technology are installable. Eg. JDBC is non-installable but driver developed by using JDBC is installable
+
+Note -> By using software technology you can develope software.
+
+Software technology are two types.
+1) Open source technology :- Source code of open source technology is available for all software developers.
+and software developers can change the source code as per their requirements.
+___________________________________________________________________________________________________________
+

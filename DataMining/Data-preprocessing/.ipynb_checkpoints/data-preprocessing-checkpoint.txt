@@ -1,0 +1,11 @@
+Steps of Data Pre-Processing
+
+1) Acquire the dataset
+2) Import all the crucial libraries
+3) Import the dataset
+4) How to extract the independent variables
+5) How to extract dependent variables
+6) Identifying the handling the missing value
+7) Encoding the categorical data (For Handle String values)
+8) Spliting the dataset
+9) Feature scaling
